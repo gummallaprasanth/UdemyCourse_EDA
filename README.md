@@ -15,9 +15,7 @@ The dataset includes the following columns:
 
 5.category: Category or field of the course (e.g., Python, Data Science)
 
-## Notebook Features
-
-The notebook includes the following features:
+## Steps Involved in the Procsess(EDA)
 
 1.Data Loading: Importing the dataset into a pandas DataFrame.
 
